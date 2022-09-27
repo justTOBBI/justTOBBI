@@ -21,3 +21,8 @@ Hi 👋 My name is justTOBBI
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/justTOBBI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/justTOBBI#6895" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/justtobbi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/justTOBBI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
+
+
+
+[![@justtobbi's Holopin board](https://holopin.io/api/user/board?user=justtobbi)](https://holopin.io/@justtobbi)
