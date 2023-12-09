@@ -7,6 +7,11 @@ Hi 👋 My name is justTOBBI
 * 🤝  I'm open to collaborating on anything :D
 * ⚡  catppuccin ftw
 
+## Don't trust Github, come...
+<a href='https://codeberg.org/justtobbi'>
+<img src='https://get-it-on.codeberg.org/get-it-on-white-on-black.png' alt='Get it on Codeberg' height=75px/>
+</a>
+
 ### Skills
 
 <p align="left">
